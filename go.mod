@@ -4,7 +4,6 @@ require (
 	github.com/boltdb/bolt v1.3.1
 	github.com/fsnotify/fsnotify v1.4.7
 	github.com/hashicorp/hcl v0.0.0-20180404174102-ef8a98b0bbce
-	github.com/kr/pretty v0.1.0
 	github.com/magiconair/properties v1.7.6
 	github.com/mitchellh/go-homedir v0.0.0-20161203194507-b8bc1bf76747
 	github.com/mitchellh/mapstructure v0.0.0-20180220230111-00c29f56e238
